@@ -13,6 +13,11 @@ public class MyCarData {
         this.image = image;
     }
 
+    public MyCarData() {
+    }
+
+
+
     public String getBrand() {
         return brand;
     }
